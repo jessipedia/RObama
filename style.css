@@ -1,0 +1,34 @@
+h1 {
+
+	font-family: 'Bitter', serif;
+}
+h2 {
+
+	font-family: 'Bitter', serif;
+}
+
+h3 {
+
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+ol {
+
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text{
+
+	margin-left: 100px;
+}
+
+#header{
+	margin-left: 50px;
+	margin-top: 20px;
+
+}
